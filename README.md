@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="assets/logicalc-logo.png" width="220" />
-    <h1 align="center">Logicalc</h1>
-</p>
+<h1 align="center">Logicalc</h1>
 
 ![Logicalc Build](https://github.com/yourusername/Logicalc/actions/workflows/build.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
@@ -18,17 +15,46 @@ Logicalc is an educational mobile application that automates conversions between
 
 Developed as a BSCS thesis project at EARIST Manila, it combines deep learning (YOLOv9) with the Sugiyama graph layout algorithm to enhance digital logic education.
 
-```mermaid
-graph LR
-    A[User Input] --> B[Circuit Diagram]
-    A --> C[Boolean Expression]
-    B --> D[YOLOv9 Detection]
-    C --> E[Expression Parser]
-    D --> F[Component Extraction]
-    E --> F
-    F --> G[Graph Construction]
-    G --> H[Sugiyama Layout]
-    H --> I[Output Generation]
-    I --> J[Circuit Diagram]
-    I --> K[Truth Table]
-    I --> L[Timing Diagram]
+### System Flowchart
+![Logicalc System Flowchart](assets/system-flowchart.png)
+
+## ✨ Key Features
+
+### 🔄 Bidirectional Conversion
+- **Equation → Diagram**: Generate circuit diagrams from Boolean expressions
+- **Diagram → Equation**: Extract logic equations from circuit images
+- **Truth Table ↔ Timing Diagram**: Visualize signal behavior over time
+
+### 🧩 Supported Components
+| Logic Gates | Connectors | Input/Output |
+|-------------|------------|--------------|
+| AND         | Junction   | Terminal     |
+| OR          | Crossover  | Text Label   |
+| NOT         | Wire       |              |
+| NAND        |            |              |
+| NOR         |            |              |
+| XOR         |            |              |
+| XNOR        |            |              |
+
+### 📊 Performance Metrics
+| Metric       | Initial | Final  | Improvement |
+|--------------|---------|--------|-------------|
+| **F1 Score** | 0.83    | 0.96   | +15.6%      |
+| **Precision**| 0.85    | 0.97   | +14.1%      |
+| **Recall**   | 0.80    | 0.95   | +18.7%      |
+| **mAP@0.5** | 0.81    | 0.98   | +21.0%      |
+
+## ⚙️ System Requirements
+
+### 💻 Development Environment
+```bash
+# Hardware
+- NVIDIA GPU (RTX 3080 recommended for training)
+- Arduino UNO + SIM900 Shield (SMS OTP feature)
+
+# Software
+- Python 3.8+
+- TensorFlow 2.15
+- OpenCV 4.8
+- PyTorch 1.13
+- Android Studio (for mobile deployment)
