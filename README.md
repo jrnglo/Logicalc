@@ -6,8 +6,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 [![Last Commit](https://img.shields.io/github/last-commit/yourusername/Logicalc.svg?style=flat)](https://github.com/yourusername/Logicalc)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Logicalc?logo=git&label=Repo%20Size)
-### System Flowchart
-![Logicalc System Flowchart](assets/system-flowchart.png)
+
 ## 🧠 What is Logicalc?
 
 Logicalc is an educational mobile application that automates conversions between logic gate representations using computer vision and graph algorithms. It transforms between:
@@ -47,19 +46,6 @@ Developed as a BSCS thesis project at EARIST Manila, it combines deep learning (
 
 ## ⚙️ System Requirements
 
-graph LR
-    A[Boolean Expression] --> B[Expression Parser]
-    C[Circuit Diagram] --> D[YOLOv9 Detection]
-    B --> E[Build Expression Tree]
-    D --> F[Extract Logic Components]
-    E --> G[Graph Construction]
-    F --> G
-    G --> H[Sugiyama Layout Algorithm]
-    H --> I[Output Generation]
-    I --> J[Circuit Diagram]
-    I --> K[Truth Table]
-    I --> L[Timing Diagram]
-
 ### 💻 Development Environment
 ```bash
 # Hardware
@@ -73,3 +59,16 @@ graph LR
 - PyTorch 1.13
 - Android Studio (for mobile deployment)
 
+```mermaid
+graph LR
+    A[Boolean Expression] --> B[Expression Parser]
+    C[Circuit Diagram] --> D[YOLOv9 Detection]
+    B --> E[Build Expression Tree]
+    D --> F[Extract Logic Components]
+    E --> G[Graph Construction]
+    F --> G
+    G --> H[Sugiyama Layout Algorithm]
+    H --> I[Output Generation]
+    I --> J[Circuit Diagram]
+    I --> K[Truth Table]
+    I --> L[Timing Diagram]
