@@ -58,3 +58,15 @@ Developed as a BSCS thesis project at EARIST Manila, it combines deep learning (
 - OpenCV 4.8
 - PyTorch 1.13
 - Android Studio (for mobile deployment)
+graph LR
+    A[Boolean Expression] --> B[Expression Parser]
+    C[Circuit Diagram] --> D[YOLOv9 Detection]
+    B --> E[Build Expression Tree]
+    D --> F[Extract Logic Components]
+    E --> G[Graph Construction]
+    F --> G
+    G --> H[Sugiyama Layout Algorithm]
+    H --> I[Output Generation]
+    I --> J[Circuit Diagram]
+    I --> K[Truth Table]
+    I --> L[Timing Diagram]
