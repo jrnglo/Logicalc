@@ -9,7 +9,7 @@
 
 ## 🧠 What is Logicalc?
 
-**Logicalc** is an innovative educational mobile application designed to revolutionize how students learn digital logic concepts. By leveraging cutting-edge computer vision and graph algorithms, it provides seamless bidirectional conversions between fundamental logic gate representations:
+Logicalc is an innovative educational mobile application designed to revolutionize how students learn digital logic concepts. By leveraging cutting-edge computer vision and graph algorithms, it provides seamless bidirectional conversions between fundamental logic gate representations:
 
 - **Boolean Algebra Expressions ↔ Circuit Diagrams**  
   Instantly generate schematic diagrams from logic equations, or extract Boolean expressions from circuit images
@@ -30,23 +30,6 @@ Logicalc combines state-of-the-art technologies to deliver accurate conversions:
    - Preserves logical flow from inputs to outputs
 
 3. **Unified Processing Pipeline**  
-   ```mermaid
-   graph LR
-       A[Boolean Expression] --> B[Syntax Parser]
-       C[Circuit Image] --> D[YOLOv9 Detection]
-       B --> E[Expression Tree]
-       D --> F[Component Extraction]
-       E --> G[Graph Construction]
-       F --> G
-       G --> H[Sugiyama Layout]
-       H --> I[Output Generator]
-       I --> J[Circuit Diagram]
-       I --> K[Truth Table]
-       I --> L[Timing Diagram]
-
-Developed as a BSCS thesis project at EARIST Manila, it combines deep learning (YOLOv9) with the Sugiyama graph layout algorithm to enhance digital logic education.
-
-### System Flowchart
 ![Logicalc System Flowchart](assets/system-flowchart.png)
 
 ## ✨ Key Features
