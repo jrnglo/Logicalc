@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # logicalc
 
 ## Running
@@ -12,3 +13,6 @@
 
 
 
+=======
+# Logicalc_v1
+>>>>>>> 350850192b4203fec75904c13396bb6c5ac6e82c
