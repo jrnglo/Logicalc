@@ -18,7 +18,7 @@ Logicalc is an educational mobile application that automates conversions between
 
 Developed as a BSCS thesis project at EARIST Manila, it combines deep learning (YOLOv9) with the Sugiyama graph layout algorithm to enhance digital logic education.
 
-```mermaid
+
 graph LR
     A[User Input] --> B[Circuit Diagram]
     A --> C[Boolean Expression]
