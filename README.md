@@ -143,10 +143,6 @@ Finally, this section acknowledges and celebrates the individuals who have made 
   
 ## 📷 Screenshots
 
-| <p align="center">Logicalc Documentations</p>          |
-|------------------------------------------------------|
-| ![Screenshot 0](screenshots/logicalc_screenshot_0.jpg) |
-
 | <p align="center">Logicalc Homepage</p>                |
 |------------------------------------------------------|
 | ![Screenshot 1](screenshots/logicalc_screenshot_1.jpg) |
