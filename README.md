@@ -1,6 +1,3 @@
-Here's the integrated user manual with your content, formatted to fit seamlessly into the README:
-
-```markdown
 <p align="center">
     <img src="assets/logicalc-icon.png" width="220" />
     <h1 align="center">Logicalc</h1>
