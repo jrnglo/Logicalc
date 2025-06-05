@@ -145,23 +145,23 @@ Finally, this section acknowledges and celebrates the individuals who have made 
 
 | <p align="center">Logicalc Homepage</p>                |
 |------------------------------------------------------|
-| <img src="screenshots/logicalc_screenshot_1.jpg" width="600"> |
+| <img src="screenshots/logicalc_screenshot_1.jpg" width="400"> |
 
 | <p align="center">Application Dashboard</p>          |
 |------------------------------------------------------|
-| <img src="screenshots/logicalc_screenshot_2.jpg" width="600"> |
+| <img src="screenshots/logicalc_screenshot_2.jpg" width="400"> |
 
 | <p align="center">Application Overview</p>           |
 |------------------------------------------------------|
-| <img src="screenshots/logicalc_screenshot_3.jpg" width="600"> |
+| <img src="screenshots/logicalc_screenshot_3.jpg" width="400"> |
 
 | <p align="center">Data Analytics Tab</p>             |
 |------------------------------------------------------|
-| <img src="screenshots/logicalc_screenshot_4.jpg" width="600"> |
+| <img src="screenshots/logicalc_screenshot_4.jpg" width="400"> |
 
 | <p align="center">Logicalc API Sandbox</p>           |
 |------------------------------------------------------|
-| <img src="screenshots/logicalc_screenshot_5.jpg" width="600"> |
+| <img src="screenshots/logicalc_screenshot_5.jpg" width="400"> |
 
 ## 🤝 Contributing
 1. Fork repository
