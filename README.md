@@ -40,7 +40,7 @@ Logicalc combines state-of-the-art technologies to deliver accurate conversions:
 <img src="./assets/qlbase-cat-1.png" align="right" width="350" />
 
 - [🪁 What is Logicalc?](#-what-is-logicalc)
-- [🎯 Features](#-features)
+- [🎯 Features](#-key-features)
 - [🚀 Deployment](#-deployment)
     * [💼 Software Requirements](#-software-requirements)
     * [📥 Downloading the Repository](#-downloading-the-repository)
