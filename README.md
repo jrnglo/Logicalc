@@ -134,7 +134,7 @@ python converter.py --equation "(A ∧ B) ∨ C"
 ```
 
 ## 👥 Contributors
-Finally, this section acknowledges and celebrates the individuals who have made significant contributions to the development and success of the project. Meet the dedicated and talented team members, developers, and collaborators who have played key roles in bringing QLBase to life and advancing its objectives.
+Finally, this section acknowledges and celebrates the individuals who have made significant contributions to the development and success of the project. Meet the dedicated and talented team members, developers, and collaborators who have played key roles in bringing Logicalc to life and advancing its objectives.
 - **Mark Kenneth Doruelo** - CNN Architecture
 - **Jaru Angelo Roces** - Mobile Integration
 - **Audrey Mae Salgado** - UI/UX Design
