@@ -145,27 +145,27 @@ Finally, this section acknowledges and celebrates the individuals who have made 
 
 | <p align="center">Logicalc Documentations</p>          |
 |------------------------------------------------------|
-| ![Screenshot 0](screenshots/Logicalc_screenshot_0.jpg) |
+| ![Screenshot 0](screenshots/logicalc_screenshot_0.jpg) |
 
 | <p align="center">Logicalc Homepage</p>                |
 |------------------------------------------------------|
-| ![Screenshot 1](screenshots/Logicalc_screenshot_1.jpg) |
+| ![Screenshot 1](screenshots/logicalc_screenshot_1.jpg) |
 
 | <p align="center">Application Dashboard</p>          |
 |------------------------------------------------------|
-| ![Screenshot 2](screenshots/Logicalc_screenshot_2.jpg) |
+| ![Screenshot 2](screenshots/logicalc_screenshot_2.jpg) |
 
 | <p align="center">Application Overview</p>           |
 |------------------------------------------------------|
-| ![Screenshot 3](screenshots/Logicalc_screenshot_3.jpg) |
+| ![Screenshot 3](screenshots/logicalc_screenshot_3.jpg) |
 
 | <p align="center">Data Analytics Tab</p>         |
 |------------------------------------------------------|
-| ![Screenshot 4](screenshots/Logicalc_screenshot_4.jpg) |
+| ![Screenshot 4](screenshots/logicalc_screenshot_4.jpg) |
 
 | <p align="center">Logicalc API Sandbox</p>             |
 |------------------------------------------------------|
-| ![Screenshot 5](screenshots/Logicalc_screenshot_5.jpg) |
+| ![Screenshot 5](screenshots/logicalc_screenshot_5.jpg) |
 
 ## 🤝 Contributing
 1. Fork repository
