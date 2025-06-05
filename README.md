@@ -1,5 +1,7 @@
-
-<h1 align="center">Logicalc</h1>
+<p align="center">
+    <img src="assets/logicalc-logo.png" width="220" />
+    <h1 align="center">Logicalc</h1>
+</p>
 
 ![Logicalc Build](https://github.com/nthnn/QLBase/actions/workflows/qlbase_build.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
