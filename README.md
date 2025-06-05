@@ -6,7 +6,7 @@
 ![Logicalc Build](https://github.com/nthnn/QLBase/actions/workflows/qlbase_build.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
 [![License: CERN](https://img.shields.io/badge/License-CERN_OHL_1.2-blue.svg)](LICENSE-CERN)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+![Spellcheck](https://github.com/nthnn/QLBase/actions/workflows/spellcheck.yml/badge.svg)
 [![Last Commit](https://img.shields.io/github/last-commit/jrnglo/Logicalc.svg?style=flat)](https://github.com/jrnglo/Logicalc)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jrnglo/Logicalc?logo=git&label=Repo%20Size)
 
