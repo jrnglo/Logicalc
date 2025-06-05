@@ -116,8 +116,7 @@ Logicalc is an innovative educational mobile application designed to revolutioni
 - 16GB RAM (32GB recommended)
 
 # Software
-- Python 3.8+
-- PyTorch 1.13+
+- Visual Studio Code 1.100.3
 - Android Studio
 ```
 
