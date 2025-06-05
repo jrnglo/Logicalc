@@ -41,8 +41,8 @@ Logicalc combines state-of-the-art technologies to deliver accurate conversions:
 
 - [🪁 What is Logicalc?](#-what-is-logicalc)
 - [🎯 Features](#-key-features)
-- [🚀 Deployment](#-deployment)
-    * [💼 Software Requirements](#-software-requirements)
+- [🚀 System Requirements](#-system-requirements)
+    * [💼 Hardware Requirements](#-hardware)
     * [📥 Downloading the Repository](#-downloading-the-repository)
     * [🏗️ Building from Source](#%EF%B8%8F-building-from-source)
 - [💿 Firmware](#-firmware)
