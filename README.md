@@ -35,29 +35,6 @@ Logicalc combines state-of-the-art technologies to deliver accurate conversions:
 3. **Unified Processing Pipeline**  
 ![Logicalc System Flowchart](assets/system-flowchart.png)
 
-## 𝌞 Table of Contents
-
-<img src="./assets/qlbase-cat-1.png" align="right" width="350" />
-
-- [🪁 What is Logicalc?](#-what-is-logicalc)
-- [🎯 Features](#-key-features)
-- [🚀 System Requirements](#-system-requirements)
-    * [💼 Hardware Requirements](##-hardware)
-    * [📥 Downloading the Repository](#-downloading-the-repository)
-    * [🏗️ Building from Source](#%EF%B8%8F-building-from-source)
-- [💿 Firmware](#-firmware)
-    * [⚡ Components](#-components)
-    * [🔧 Hardware Setup](#-hardware-setup)
-    * [📡 Uploading the Firmware](#-uploading-the-firmware)
-- [🤝 Contributing and Contributors](#-contributing-and-contributors)
-    * [🐞 Issue Reporting](#-issue-reporting)
-    * [🛠️ Pull Requests](#-pull-requests)
-    * [👥 Contributors](#-contributors)
-- [📷 Screenshots](#-screenshots)
-- [💙 Donating](#-donating)
-- [⭐️ Star History](#-star-history)
-- [📜 License](#-license)
-
 ## ✨ Key Features
 
 ### 🔄 Bidirectional Conversion
