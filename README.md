@@ -3,7 +3,7 @@
     <h1 align="center">Logicalc</h1>
 </p>
 
-![Logicalc Build]([https://github.com/jrnglo/Logicalc/actions/workflows/build.yml/badge.svg](https://github.com/nthnn/QLBase/actions/workflows/qlbase_build.yml/badge.svg))
+![Logicalc Build](https://github.com/nthnn/QLBase/actions/workflows/qlbase_build.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
 [![License: CERN](https://img.shields.io/badge/License-CERN_OHL_1.2-blue.svg)](LICENSE-CERN)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
