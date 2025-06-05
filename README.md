@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE-MIT)
 [![License: CERN](https://img.shields.io/badge/License-CERN_OHL_1.2-blue.svg)](LICENSE-CERN)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/Logicalc.svg?style=flat)](https://github.com/yourusername/Logicalc)
+[![Last Commit](https://img.shields.io/github/last-commit/jrnglo/Logicalc.svg?style=flat)](https://github.com/jrnglo/Logicalc)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jrnglo/Logicalc?logo=git&label=Repo%20Size)
 
 ## 🧠 What is Logicalc?
