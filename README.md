@@ -143,29 +143,29 @@ Finally, this section acknowledges and celebrates the individuals who have made 
   
 ## 📷 Screenshots
 
-| <p align="center">QLBase Documentations</p>          |
+| <p align="center">Logicalc Documentations</p>          |
 |------------------------------------------------------|
-| ![Screenshot 0](screenshots/qlbase_screenshot_0.png) |
+| ![Screenshot 0](screenshots/Logicalc_screenshot_0.jpg) |
 
-| <p align="center">QLBase Homepage</p>                |
+| <p align="center">Logicalc Homepage</p>                |
 |------------------------------------------------------|
-| ![Screenshot 1](screenshots/qlbase_screenshot_1.png) |
+| ![Screenshot 1](screenshots/Logicalc_screenshot_1.jpg) |
 
 | <p align="center">Application Dashboard</p>          |
 |------------------------------------------------------|
-| ![Screenshot 2](screenshots/qlbase_screenshot_2.png) |
+| ![Screenshot 2](screenshots/Logicalc_screenshot_2.jpg) |
 
 | <p align="center">Application Overview</p>           |
 |------------------------------------------------------|
-| ![Screenshot 3](screenshots/qlbase_screenshot_3.png) |
+| ![Screenshot 3](screenshots/Logicalc_screenshot_3.jpg) |
 
 | <p align="center">Data Analytics Tab</p>         |
 |------------------------------------------------------|
-| ![Screenshot 4](screenshots/qlbase_screenshot_4.png) |
+| ![Screenshot 4](screenshots/Logicalc_screenshot_4.jpg) |
 
-| <p align="center">QLBase API Sandbox</p>             |
+| <p align="center">Logicalc API Sandbox</p>             |
 |------------------------------------------------------|
-| ![Screenshot 5](screenshots/qlbase_screenshot_5.png) |
+| ![Screenshot 5](screenshots/Logicalc_screenshot_5.jpg) |
 
 ## 🤝 Contributing
 1. Fork repository
