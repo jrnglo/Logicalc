@@ -50,14 +50,6 @@ Logicalc combines state-of-the-art technologies to deliver accurate conversions:
 | XOR         |            |              |
 | XNOR        |            |              |
 
-### 📊 Performance Metrics
-| Metric       | Initial | Final  | Improvement |
-|--------------|---------|--------|-------------|
-| **F1 Score** | 0.83    | 0.96   | +15.6%      |
-| **Precision**| 0.85    | 0.97   | +14.1%      |
-| **Recall**   | 0.80    | 0.95   | +18.7%      |
-| **mAP@0.5** | 0.81    | 0.98   | +21.0%      |
-
 ## ⚙️ System Requirements
 
 ### 💻 Development Environment
