@@ -27,8 +27,6 @@ Logicalc is an innovative educational mobile application designed to revolutioni
 
 ---
 
-## 📖 Logicalc User Manual
-
 ### 1. Core Components
 #### OR Gate Example
 | **Symbol** | **Truth Table** | **Function** |
@@ -136,6 +134,39 @@ pip install -r requirements.txt
 python converter.py --equation "(A ∧ B) ∨ C"
 ```
 
+## 👥 Contributors
+Finally, this section acknowledges and celebrates the individuals who have made significant contributions to the development and success of the project. Meet the dedicated and talented team members, developers, and collaborators who have played key roles in bringing QLBase to life and advancing its objectives.
+- **Mark Kenneth Doruelo** - CNN Architecture
+- **Jaru Angelo Roces** - Mobile Integration
+- **Audrey Mae Salgado** - UI/UX Design
+- **Dhalfrey Sebio** - Boolean Engine
+  
+## 📷 Screenshots
+
+| <p align="center">QLBase Documentations</p>          |
+|------------------------------------------------------|
+| ![Screenshot 0](screenshots/qlbase_screenshot_0.png) |
+
+| <p align="center">QLBase Homepage</p>                |
+|------------------------------------------------------|
+| ![Screenshot 1](screenshots/qlbase_screenshot_1.png) |
+
+| <p align="center">Application Dashboard</p>          |
+|------------------------------------------------------|
+| ![Screenshot 2](screenshots/qlbase_screenshot_2.png) |
+
+| <p align="center">Application Overview</p>           |
+|------------------------------------------------------|
+| ![Screenshot 3](screenshots/qlbase_screenshot_3.png) |
+
+| <p align="center">Data Analytics Tab</p>         |
+|------------------------------------------------------|
+| ![Screenshot 4](screenshots/qlbase_screenshot_4.png) |
+
+| <p align="center">QLBase API Sandbox</p>             |
+|------------------------------------------------------|
+| ![Screenshot 5](screenshots/qlbase_screenshot_5.png) |
+
 ## 🤝 Contributing
 1. Fork repository
 2. Create feature branch (`git checkout -b feature/improvement`)
@@ -146,10 +177,3 @@ python converter.py --equation "(A ∧ B) ∨ C"
 ## 📜 License
 - Software: [MIT License](LICENSE-MIT)
 - Hardware: [CERN OHL v1.2](LICENSE-CERN)
-
-## 👥 Contributors
-Finally, this section acknowledges and celebrates the individuals who have made significant contributions to the development and success of the project. Meet the dedicated and talented team members, developers, and collaborators who have played key roles in bringing QLBase to life and advancing its objectives.
-- **Mark Kenneth Doruelo** - CNN Architecture
-- **Jaru Angelo Roces** - Mobile Integration
-- **Audrey Mae Salgado** - UI/UX Design
-- **Dhalfrey Sebio** - Boolean Engine
