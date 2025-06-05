@@ -44,8 +44,7 @@ Logicalc is an innovative educational mobile application designed to revolutioni
 ### 3. Conversion Tools
 1. **Convert Equation** → Generate diagrams/tables from equations  
    `(A ∧ B) ⊙ C`
-2. **Convert Schematic** → Extract equations from circuit images  
-   ![Circuit Example](assets/circuit-example.png)
+2. **Convert Schematic** → Extract equations from circuit images
 
 ### 4. Equation Input
 ```plaintext
@@ -69,12 +68,8 @@ Logicalc is an innovative educational mobile application designed to revolutioni
 | 0 | 1 | 0 | 0   | **1**  |
 | 1 | 1 | 1 | 1   | **1**  |
 
-#### Timing Diagram
-![Timing Diagram](assets/timing-example.png)
-
 ### 6. Circuit Tools
 - **Generate Diagram** from equations  
-  ![Generated Circuit](assets/generated-circuit.png)
 - **Extract Equations** from images:
   1. Capture/upload circuit photo
   2. Automatic component detection
@@ -93,8 +88,9 @@ Logicalc is an innovative educational mobile application designed to revolutioni
 
 ## ✨ Key Features
 ### 🔄 Bidirectional Conversion
-- **Equation → Diagram**: `(A ⊕ B) ∧ C` → ![XOR-AND Circuit](assets/xor-and-circuit.png)
-- **Diagram → Equation**: ![Circuit](assets/nand-circuit.png) → `¬(A ∧ B)`
+- **Equation → Diagram**: Generate circuit diagrams from Boolean expressions
+- **Diagram → Equation**: Extract logic equations from circuit images
+- **Truth Table ↔ Timing Diagram**: Visualize signal behavior over time
 
 ### 🧩 Supported Components
 | Logic Gates | Connectors | I/O Elements |
@@ -149,53 +145,9 @@ python converter.py --equation "(A ∧ B) ∨ C"
 - Software: [MIT License](LICENSE-MIT)
 - Hardware: [CERN OHL v1.2](LICENSE-CERN)
 
-## 📚 Citation
-```bibtex
-@thesis{logicalc2025,
-  title={Logicalc: Logic Gate Converter Using CNN},
-  author={Doruelo, M.K. et al.},
-  year={2025},
-  institution={EARIST Manila}
-}
-```
-
-## 👥 Core Team
+## 👥 Contributors
+Finally, this section acknowledges and celebrates the individuals who have made significant contributions to the development and success of the project. Meet the dedicated and talented team members, developers, and collaborators who have played key roles in bringing QLBase to life and advancing its objectives.
 - **Mark Kenneth Doruelo** - CNN Architecture
 - **Jaru Angelo Roces** - Mobile Integration
 - **Audrey Mae Salgado** - UI/UX Design
 - **Dhalfrey Sebio** - Boolean Engine
-
----
-> Developed at College of Computing Studies, EARIST Manila
-```
-
-### Key Changes:
-1. **Integrated User Manual**:
-   - Added as a dedicated section after the introduction
-   - Structured with clear subheadings (Core Components, Navigation, etc.)
-   - Included tables and diagrams for visual reference
-
-2. **Visual Enhancements**:
-   - Added placeholder image references (`assets/timing-example.png`, `assets/generated-circuit.png`)
-   - Formatted truth tables and symbol palettes cleanly
-   - Used consistent styling throughout
-
-3. **Technical Integration**:
-   - Kept all original technical specifications
-   - Maintained performance metrics and requirements
-   - Preserved license and citation information
-
-4. **Flow Improvements**:
-   - Added quick start guide at end of manual section
-   - Included practical examples with sample equations
-   - Created clear paths from input to output
-
-### Assets to Create:
-1. `assets/system-flowchart.png` - Main processing flowchart
-2. `assets/circuit-example.png` - Sample circuit diagram
-3. `assets/timing-example.png` - Sample timing diagram
-4. `assets/generated-circuit.png` - Auto-generated circuit
-5. `assets/xor-and-circuit.png` - XOR-AND circuit example
-6. `assets/nand-circuit.png` - NAND gate circuit
-
-These images should match the examples shown in your thesis for consistency. The manual now provides both a quick reference for users and detailed technical information for developers in a single comprehensive README.
