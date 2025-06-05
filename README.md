@@ -8,8 +8,8 @@
 [![License: CERN](https://img.shields.io/badge/License-CERN_OHL_1.2-blue.svg)](LICENSE-CERN)
 ![Spellcheck](https://github.com/nthnn/QLBase/actions/workflows/spellcheck.yml/badge.svg)
 [![Last Commit](https://img.shields.io/github/last-commit/jrnglo/Logicalc.svg?style=flat)](https://github.com/jrnglo/Logicalc)
-[![GitHub Issues](https://img.shields.io/github/issues/nthnn/QLBase.svg)](https://github.com/jrnglo/Logicalc/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/nthnn/QLBase.svg)](https://github.com/jrnglo/Logicalc/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/jrnglo/Logicalc.svg)](https://github.com/jrnglo/Logicalc/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/jrnglo/Logicalc.svg)](https://github.com/jrnglo/Logicalc/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jrnglo/Logicalc?logo=git&label=Repo%20Size)
 
 ## 🧠 What is Logicalc?
